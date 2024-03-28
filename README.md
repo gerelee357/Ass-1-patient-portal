@@ -22,7 +22,7 @@ Follow these steps to install the repository requirements:
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/amhkhowaja/patient-portal.git
+git clone https://github.com/gerelee357/patient-portal.git
 ```
 
 2. **Navigate to the Repository:**
