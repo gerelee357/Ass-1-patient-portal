@@ -64,9 +64,25 @@ With both the server and database now prepared, the next step involves finalizin
 
 ## TASK: Completing Function Definitions in src/api_controller.py
 
-Replace the placeholder `pass` statements with the necessary code to fulfill the requirements specified for each function. You're tasked with defining five functions, each covering three key points, amounting to a total of 15 points.
+- Replace the placeholder `pass` statements with the necessary code to fulfill the requirements specified for each function. 
+- Ensure that your functions handle any exceptions that may occur.
+
+** Points: ** 
+You're tasked with defining five functions, each covering three key points, amounting to a total of 15 points. 
+
+
 
 Once these functions are properly implemented, the Patient Portal application will be capable of enabling users, such as receptionists, to perform a range of tasks including creating, reading, updating, and deleting patient records.
+
+## TASK: Finalizing Function Definitions in src/api_controller.py
+
+- Replace the placeholders `pass` with the required code to meet the specified requirements for each function.
+- Make sure your functions handle any potential exceptions.
+
+** Point Allocation: **
+Each function definition is valued at 3 points, totaling 15 points. 
+
+Once these functions are appropriately implemented, the Patient Portal application will empower users, such as receptionists, to execute various tasks like creating, viewing, updating, and deleting patient records.
 
 
 Next, you can test out the application. You can use the provided scripts or just try it out using a web browser.
