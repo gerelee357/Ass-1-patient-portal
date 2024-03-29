@@ -15,7 +15,7 @@ Patient Portal is a basic Patient management system, where the user (ie. recepti
 - Install **Python** (recommended version >= 3.10)
 - Install **Gitbash** (Optional)
 
-## Installation Steps
+## Building project environment
 
 Follow these steps to install the repository requirements:
 
@@ -54,7 +54,7 @@ python -m pip install -r requirements.txt
 ```
 6. **Run server.**
    
-   First Run the flask server by running the API_CONTROLLER (`src/api_controller.py`) directly or using linux command:
+   First Run the flask server by running the API_CONTROLLER (`src/api_controller.py`) directly or using Linux command:
 ```bash
 python src/api_controller.py
 ```
@@ -99,7 +99,7 @@ Then for listing the created patients with \*name\* as parameter,
 bash list_patient_by_name.sh
 ```
 
-Then for getting a patient details with certain id,
+Then to get a patient's details with a certain ID,
 ```bash
 bash get_certain_patient.sh
 ```
