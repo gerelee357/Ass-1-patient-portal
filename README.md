@@ -59,7 +59,11 @@ python -m pip install -r requirements.txt
 python src/api_controller.py
 ```
 
-## Define APIs in src/api_controller.py instead of 'pass'.
+## Implementing Function Definitions in src/api_controller.py
+
+Replace the placeholder `pass` statements with the necessary code to fulfill the requirements specified for each function. You're tasked with defining five functions, each covering three key points, amounting to a total of 15 points.
+
+Once these functions are properly implemented, the Patient Portal application will be capable of enabling users, such as receptionists, to perform a range of tasks including creating, reading, updating, and deleting patient records.
 
 
 
