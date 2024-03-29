@@ -139,9 +139,6 @@ Python OOP : https://docs.python.org/3/tutorial/classes.html
 
 If you need more clarification, please ping me. I will update the readme file.
 
-## Review
-
-Feel free to reach out if you require further clarification. I'll revise the readme file accordingly.
 
 ## Task Originator:
 
