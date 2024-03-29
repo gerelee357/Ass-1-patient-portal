@@ -71,7 +71,7 @@ Once these functions are properly implemented, the Patient Portal application wi
 
 Next, you can test out the application. You can use the provided scripts or just try it out using a web browser.
 
-## Testing the final application
+### Testing the final application
 
 In Terminal :
 
