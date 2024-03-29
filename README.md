@@ -139,8 +139,12 @@ Python OOP : https://docs.python.org/3/tutorial/classes.html
 
 If you need more clarification, please ping me. I will update the readme file.
 
+## Review
+
+Feel free to reach out if you require further clarification. I'll revise the readme file accordingly.
+
 ## Task Originator:
 
 This task has been created by Aadarsh Mehdi.
 
-LinkedIn Profile: Aadarsh Mehdi
+LinkedIn Profile: [Aadarsh Mehdi](https://www.linkedin.com/in/aadarsh-mehdi-73754b13b/)
