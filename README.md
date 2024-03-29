@@ -52,14 +52,14 @@ source venv/Scripts/activate
 ```bash
 python -m pip install -r requirements.txt
 ```
-6. Run server:
+6. **Run server.**
    
    First Run the flask server by running the API_CONTROLLER (`src/api_controller.py`) directly or using linux command:
 ```bash
 python src/api_controller.py
 ```
 
-## Defining interfaces to access database in src/api_controller.py 
+## Define APIs in src/api_controller.py instead of 'pass'.
 
 
 
