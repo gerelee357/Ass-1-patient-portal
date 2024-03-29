@@ -67,10 +67,9 @@ With both the server and database now prepared, the next step involves finalizin
 - Replace the placeholder `pass` statements with the necessary code to fulfill the requirements specified for each function. 
 - Ensure that your functions handle any exceptions that may occur.
 
-** Points: ** 
-You're tasked with defining five functions, each covering three key points, amounting to a total of 15 points. 
+**Points:** 
 
-
+Each function definition is valued at 3 points, totaling 15 points.
 
 Once these functions are properly implemented, the Patient Portal application will be capable of enabling users, such as receptionists, to perform a range of tasks including creating, reading, updating, and deleting patient records.
 
