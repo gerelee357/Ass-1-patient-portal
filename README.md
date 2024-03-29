@@ -59,6 +59,8 @@ python -m pip install -r requirements.txt
 python src/api_controller.py
 ```
 
+With both the server and database now prepared, the next step involves finalizing the API interface by completing the function definition in src/api_controller.py. This interface serves as the bridge between the database and the client, ensuring seamless communication and interaction between the two.  
+
 ## Implementing Function Definitions in src/api_controller.py
 
 Replace the placeholder `pass` statements with the necessary code to fulfill the requirements specified for each function. You're tasked with defining five functions, each covering three key points, amounting to a total of 15 points.
@@ -66,6 +68,7 @@ Replace the placeholder `pass` statements with the necessary code to fulfill the
 Once these functions are properly implemented, the Patient Portal application will be capable of enabling users, such as receptionists, to perform a range of tasks including creating, reading, updating, and deleting patient records.
 
 
+Next, you can test out the application. You can use the provided scripts or just try it out using a web browser.
 
 ## Testing the final application
 
