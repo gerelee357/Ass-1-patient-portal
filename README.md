@@ -52,7 +52,8 @@ source venv/Scripts/activate
 ```bash
 python -m pip install -r requirements.txt
 ```
-6. **Run server.**
+
+## Running server.
    
    First Run the flask server by running the API_CONTROLLER (`src/api_controller.py`) directly or using Linux command:
 ```bash
@@ -61,7 +62,7 @@ python src/api_controller.py
 
 With both the server and database now prepared, the next step involves finalizing the API interface by completing the function definition in src/api_controller.py. This interface serves as the bridge between the database and the client, ensuring seamless communication and interaction between the two.  
 
-## Implementing Function Definitions in src/api_controller.py
+## Completing Function Definitions in src/api_controller.py
 
 Replace the placeholder `pass` statements with the necessary code to fulfill the requirements specified for each function. You're tasked with defining five functions, each covering three key points, amounting to a total of 15 points.
 
