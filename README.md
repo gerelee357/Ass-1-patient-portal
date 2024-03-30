@@ -123,8 +123,9 @@ Finally, to delete the created patient,
 bash delete_patient.sh
 ```
 
+## NOTE
 
-To terminate a process running on port 5000 in Linux, you can follow these steps:
+If you encounter an error stating that port 5000 is already being used by another program when attempting to run a server, you can resolve this by following these steps:
 
 1. Use the `lsof` command to identify the process ID (PID) associated with port 5000:
 
