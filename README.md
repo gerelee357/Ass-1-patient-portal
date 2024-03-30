@@ -124,6 +124,22 @@ bash delete_patient.sh
 ```
 
 
+To terminate a process running on port 5000 in Linux, you can follow these steps:
+
+1. Use the `lsof` command to identify the process ID (PID) associated with port 5000:
+
+```bash
+lsof -i :5000
+```
+
+2. Once you have the PID, you can stop the process using the `kill` command. For example, if the PID is 1234, you would execute:
+
+```bash
+kill -9 1234
+```
+
+Replace "1234" with the actual PID you obtained from the `lsof` command.
+
 ## You can Refer:
 
 Flask Documentation: https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
